@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Print("Hello Git!")
-	fmt.Print("Edited.")
+	fmt.Print("Edited!")
 }
