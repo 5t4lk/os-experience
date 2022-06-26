@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Print("Hello from script.go!")
-	fmt.Print("temp1")
+	fmt.Print("temp SS!")
 }
