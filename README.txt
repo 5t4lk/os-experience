@@ -10,5 +10,3 @@ on Github in all ways by Git.
 
 Thanks for your attention,
 Vladimir.
-
-:)
